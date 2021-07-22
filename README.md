@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zarjue67
+- 👋 Hi, I’m Zar Sanusi
 - 👀 I’m interested in photograph, data analytics(recently)
 - 🌱 I’m currently learning python, power BI
 - 💞️ I’m looking to collaborate on ...thinking, thinking, thinking
